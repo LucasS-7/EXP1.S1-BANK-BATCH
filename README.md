@@ -106,7 +106,7 @@ y gestionar el esquema con una herramienta de migración (Flyway/Liquibase).
 
 ```bash
 # 1. Clonar el repositorio
-git clone <URL_DEL_REPOSITORIO>
+git clone <https://github.com/LucasS-7/EXP1.S1-BANK-BATCH.git>
 cd bank-batch
 
 # 2. Crear la base de datos (si no existe)
